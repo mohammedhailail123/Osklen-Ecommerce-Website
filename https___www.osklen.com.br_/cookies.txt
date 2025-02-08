@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.osklen.com.br	TRUE	/	FALSE	1999999999	vtex_is_anonymous	872a1284-979c-46d4-b636-18d50db34734
+www.osklen.com.br	TRUE	/	FALSE	1999999999	vtex_is_session	8ff80b4e-0f5e-4afe-8ff5-331aebe9d062
+www.osklen.com.br	TRUE	/	FALSE	1999999999	vtex_segment	eyJjaGFubmVsIjoiMSIsInV0bV9jYW1wYWlnbiI6bnVsbCwidXRtX3NvdXJjZSI6bnVsbCwidXRtX21lZGl1bSI6bnVsbCwidXRtaV9jYW1wYWlnbiI6bnVsbCwidXRtaV9wYWdlIjpudWxsLCJ1dG1pX3BhcnQiOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9
+www.osklen.com.br	TRUE	/	FALSE	1999999999	__cflb	02DiuG2WuMhwDx94orXHdWrEMeJdzBTaeWTrDcpzuMgZA
+www.osklen.com.br	TRUE	/	FALSE	1999999999	deco_matcher_849727208_1	QUIgUmV0cm9maXQ=@1
+www.osklen.com.br	TRUE	/	FALSE	1999999999	deco_segment	JTdCJTIyYWN0aXZlJTIyJTNBJTVCJTIyQUIlMjBSZXRyb2ZpdCUyMiU1RCUyQyUyMmluYWN0aXZlRHJhd24lMjIlM0ElNUIlNUQlN0Q=
+www.osklen.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+
